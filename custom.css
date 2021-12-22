@@ -1,3 +1,7 @@
+.layout-mobile .listItem-bottomoverview {
+    display: none;
+}
+
 .secondary.listItem-overview.listItemBodyText {
     display:none;
 }
