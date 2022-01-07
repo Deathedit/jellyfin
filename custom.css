@@ -9,3 +9,6 @@
 #castCollapsible { 
     display: none; 
 }
+.div.detailPagePrimaryContent.padded-right {
+    display:none;
+}
